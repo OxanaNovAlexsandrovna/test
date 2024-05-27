@@ -7,3 +7,8 @@ I study in Netology
 ## New room
 
 ## NeuroStartUp
+
+# Our advantages:
+High search accuracy
+High search speed
+Low price
